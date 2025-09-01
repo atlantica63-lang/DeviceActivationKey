@@ -14,7 +14,13 @@
     {
         "device_id": "c48e3f4c4365eb07",
         "key": "xI4/TENl6wc=",
-        "expirydate": "15-09-2026",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "0aea774881a8922a",
+        "key": "Cqp3SIGokio=",
+        "expirydate": "01-09-2026",
         "Allowoffline": true
     }, 
 ]
