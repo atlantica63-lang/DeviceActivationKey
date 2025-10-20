@@ -59,4 +59,16 @@
         "expirydate": "01-09-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "319e4ba1835fda05",
+        "key": "bs1iu90",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "25248a7a6c1d640a",
+        "key": "bfj847nd",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
+    }, 
 ]
