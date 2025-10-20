@@ -77,4 +77,10 @@
         "expirydate": "01-09-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "ee4033e578da776a",
+        "key": "rfv923yfd",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
+    }, 
 ]
