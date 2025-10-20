@@ -71,4 +71,10 @@
         "expirydate": "01-09-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "7e7772721d42139f",
+        "key": "pkn057wdc",
+        "expirydate": "01-09-2026",
+        "Allowoffline": true
+    }, 
 ]
