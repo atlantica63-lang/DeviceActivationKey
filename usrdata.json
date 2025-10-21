@@ -95,4 +95,10 @@
         "expirydate": "31-10-2025",
         "Allowoffline": true
     }, 
+     {
+        "device_id": "5a1bbf1ca90a5717",
+        "key": "vfg648pok",
+        "expirydate": "31-10-2025",
+        "Allowoffline": true
+    }, 
 ]
