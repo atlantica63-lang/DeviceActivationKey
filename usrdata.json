@@ -108,4 +108,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "78e7a30d2c2f084a",
+        "key": "qaz109plm",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
