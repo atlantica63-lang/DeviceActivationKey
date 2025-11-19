@@ -126,4 +126,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "aecc0b7009a32c22",
+        "key": "mqp753heo",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
