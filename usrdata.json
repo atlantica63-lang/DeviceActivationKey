@@ -132,4 +132,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "f9a52859eec547ff",
+        "key": "cbh759kdj",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
