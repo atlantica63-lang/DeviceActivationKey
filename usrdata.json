@@ -150,4 +150,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "f71093d1681daa57",
+        "key": "ndh826len",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
