@@ -144,4 +144,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "e2444893f63c7222",
+        "key": "hfr874kfb",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
