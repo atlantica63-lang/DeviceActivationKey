@@ -162,4 +162,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "49d8c810f928f6f4",
+        "key": "ndb948lej",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
