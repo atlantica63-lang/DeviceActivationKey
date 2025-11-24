@@ -168,4 +168,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "b8dfaf49e84f7e7b",
+        "key": "mdg939keh",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
