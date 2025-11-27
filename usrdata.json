@@ -180,4 +180,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+        {
+        "device_id": "fa946e2647d8c6f2",
+        "key": "jek983hej",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
