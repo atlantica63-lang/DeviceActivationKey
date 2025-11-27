@@ -192,4 +192,10 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "eaa689655da0d601",
+        "key": "pro864dlh",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
