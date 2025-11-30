@@ -198,11 +198,16 @@
         "expirydate": "31-10-2026",
         "Allowoffline": true
     }, 
-    
     {
         "device_id": "ce64d01aa7ebc869",
         "key": "ndb039kwb",
         "expirydate": "31-10-2026",
         "Allowoffline": true
-    }
+    }, 
+    {
+        "device_id": "93305a6679073570",
+        "key": "peu946orn",
+        "expirydate": "31-10-2026",
+        "Allowoffline": true
+    }, 
 ]
