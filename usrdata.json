@@ -210,9 +210,15 @@
         "expirydate": "04-12-2025",
         "Allowoffline": true
     }, 
-        {
+    {
         "device_id": "b4ae1020f64b5b2c",
         "key": "ngi937lwk",
+        "expirydate": "12-12-2025",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "0149d99d5e0a511a",
+        "key": "irn937kdh",
         "expirydate": "12-12-2025",
         "Allowoffline": true
     }, 
