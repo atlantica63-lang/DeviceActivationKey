@@ -222,4 +222,10 @@
         "expirydate": "12-12-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "11dee9bf1508f512",
+        "key": "keh937jeb",
+        "expirydate": "12-12-2026",
+        "Allowoffline": true
+    }, 
 ]
