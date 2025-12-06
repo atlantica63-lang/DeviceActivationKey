@@ -233,4 +233,10 @@
         "expirydate": "09-12-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "aba4661ba7947418",
+        "key": "log847bns",
+        "expirydate": "09-12-2026",
+        "Allowoffline": true
+    }, 
 ]
