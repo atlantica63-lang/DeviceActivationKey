@@ -245,4 +245,10 @@
         "expirydate": "23-12-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "504a480800ef2d0f",
+        "key": "oeu836jeb",
+        "expirydate": "23-12-2026",
+        "Allowoffline": true
+    }, 
 ]
