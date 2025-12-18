@@ -251,9 +251,15 @@
         "expirydate": "23-12-2026",
         "Allowoffline": true
     }, 
-        {
+    {
         "device_id": "271aefe65e6194b3",
         "key": "oru793lej",
+        "expirydate": "23-12-2026",
+        "Allowoffline": true
+    }, 
+    {
+        "device_id": "c4946bcb6e66300f",
+        "key": "zop332das",
         "expirydate": "23-12-2026",
         "Allowoffline": true
     }, 
