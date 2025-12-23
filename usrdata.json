@@ -263,4 +263,10 @@
         "expirydate": "23-12-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "8f09083d4bfaae42",
+        "key": "knr103jkt",
+        "expirydate": "23-12-2026",
+        "Allowoffline": true
+    }, 
 ]
