@@ -269,4 +269,16 @@
         "expirydate": "23-12-2026",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "0e6fbb53185f3a73",
+        "key": "pej737kdb",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "",
+        "key": "lke083jeb",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
