@@ -287,4 +287,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "4a1c93e1d07b20db",
+        "key": "nhe929jhe",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
