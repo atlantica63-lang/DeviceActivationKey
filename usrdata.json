@@ -281,4 +281,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b5e68c2a8673af34",
+        "key": "Hvc863nbd",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
