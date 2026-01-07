@@ -305,4 +305,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3a84296daf32e961",
+        "key": "ben928ned",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
