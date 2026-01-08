@@ -311,4 +311,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "929aa508c18421ad",
+        "key": "hek937keh",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
