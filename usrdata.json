@@ -323,4 +323,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c01ffcd282ff867e",
+        "key": "mww937bmw",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
