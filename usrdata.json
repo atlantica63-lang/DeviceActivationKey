@@ -329,4 +329,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "efcbf9c756bc75a9",
+        "key": "bek001jls",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
