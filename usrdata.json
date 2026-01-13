@@ -341,4 +341,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9df2bdf5ff77af5e",
+        "key": "kgn003mvr",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
