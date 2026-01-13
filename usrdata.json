@@ -335,4 +335,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e95daf9b7fced271",
+        "key": "ksn002kel",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
