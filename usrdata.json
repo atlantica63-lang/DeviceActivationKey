@@ -353,4 +353,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "bf03a526db7f13d9",
+        "key": "jdb005gnf",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
