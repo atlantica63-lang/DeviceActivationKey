@@ -347,4 +347,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "95ac3ad8d94cac94",
+        "key": "prw004keh",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
