@@ -365,4 +365,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3997926409b93ef1",
+        "key": "ndn007ken",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
