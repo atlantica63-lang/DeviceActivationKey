@@ -359,4 +359,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "724815a6900a046c",
+        "key": "kje006ndi",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
