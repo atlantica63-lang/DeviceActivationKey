@@ -377,4 +377,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "a9df89b24219aa3f",
+        "key": "alw009fng",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
