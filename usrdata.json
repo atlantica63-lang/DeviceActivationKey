@@ -389,4 +389,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "03a36f90a9ac1389",
+        "key": "kdn011bne",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
