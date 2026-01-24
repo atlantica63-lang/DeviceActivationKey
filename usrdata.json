@@ -395,9 +395,15 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-      {
+    {
         "device_id": "963ab6979915b4d6",
         "key": "jgn012eju",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d365768a6f1f3d68",
+        "key": "jsb013iej",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
