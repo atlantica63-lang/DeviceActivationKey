@@ -413,4 +413,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "e14b3de5ccd6814d",
+        "key": "jsb015oej",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
