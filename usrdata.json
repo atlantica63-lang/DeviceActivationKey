@@ -419,4 +419,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "66fe2e3a0e376fd8",
+        "key": "mrb016iwb",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
