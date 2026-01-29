@@ -437,4 +437,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "29161651b08fc2a8",
+        "key": "vnr019ken",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
