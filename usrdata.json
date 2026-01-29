@@ -431,4 +431,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "7b93410f2dca332c",
+        "key": "peg18ngr",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
