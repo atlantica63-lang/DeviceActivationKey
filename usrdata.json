@@ -425,4 +425,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0855ebeb2919733c",
+        "key": "cne017brw",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
