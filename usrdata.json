@@ -455,4 +455,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "9f075955608bf316",
+        "key": "vlw022nre",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
