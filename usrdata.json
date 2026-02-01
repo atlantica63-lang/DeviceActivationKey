@@ -461,4 +461,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "148eb655682e541c",
+        "key": "nev023vwk",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
