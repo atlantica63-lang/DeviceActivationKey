@@ -473,4 +473,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "827621cce7b2db48",
+        "key": "ncb025che",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
