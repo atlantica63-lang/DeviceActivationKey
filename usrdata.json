@@ -485,4 +485,16 @@
         "expirydate": "03-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3b003159a1e28734",
+        "key": "keb027nbr",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7941092a87d789e2",
+        "key": "khb028fsr",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
