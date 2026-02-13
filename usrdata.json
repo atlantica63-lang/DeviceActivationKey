@@ -510,8 +510,14 @@
         "Allowoffline": true
     },
     { 
-        "device_id": "",
-        "key": "",
+        "device_id": "b85b95aa51bc443e",
+        "key": "kcn31pen",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    { 
+        "device_id": "97ba52955edbf331",
+        "key": "irb32pro",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
@@ -545,7 +551,13 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-    { 
+    {
+        "device_id": "",
+        "key": "",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "",
         "key": "",
         "expirydate": "31-12-2026",
