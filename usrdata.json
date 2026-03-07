@@ -563,4 +563,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "77af5ee52daf8a28",
+        "key": "Bvm040bvw",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
