@@ -578,7 +578,19 @@
     {
         "device_id": "61f7fa680e1e4c71",
         "key": "Tyra042",
-        "expirydate": "31-12-2026",
+        "expirydate": "31-03-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "646d83231f84aea4",
+        "key": "Shld043",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2e413ab35ee07218",
+        "key": "Rsaa044",
+        "expirydate": "31-12-2027",
         "Allowoffline": true
     },
 ]
