@@ -575,4 +575,10 @@
         "expirydate": "10-03-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "61f7fa680e1e4c71",
+        "key": "Tyra042",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
