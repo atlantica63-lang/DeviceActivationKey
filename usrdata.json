@@ -593,4 +593,10 @@
         "expirydate": "31-12-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "163e4461e9983cf9",
+        "key": "Bww045geh",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
