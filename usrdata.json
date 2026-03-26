@@ -599,4 +599,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "Oce14e098222b9ea",
+        "key": "Nta046",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
