@@ -606,8 +606,14 @@
         "Allowoffline": true
     },
     {
-        "device_id": "a45623e65e7215d4",
+        "device_id": "d81312d829d0fedd",
         "key": "Abeaj047",
+        "expirydate": "01-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a45623e65e7215d4",
+        "key": "Aywgs048",
         "expirydate": "01-04-2027",
         "Allowoffline": true
     },
