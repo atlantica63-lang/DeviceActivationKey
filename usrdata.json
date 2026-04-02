@@ -611,4 +611,10 @@
         "expirydate": "01-04-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "0c315bff385c89ec",
+        "key": "Hkw048mwb",
+        "expirydate": "02-04-2027",
+        "Allowoffline": true
+    },
 ]
