@@ -617,4 +617,10 @@
         "expirydate": "02-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "250d4ff152779d05",
+        "key": "Bkn04049hwg",
+        "expirydate": "04-04-2027",
+        "Allowoffline": true
+    },
 ]
