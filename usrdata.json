@@ -635,4 +635,10 @@
         "expirydate": "07-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "8ff93511a7979a43",
+        "key": "Bmm052tgt",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
