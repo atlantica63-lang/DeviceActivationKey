@@ -662,7 +662,13 @@
     {
         "device_id": "c74d75533f30b545",
         "key": "Bsj056jwa",
-        "expirydate": "31-12-2026",
+        "expirydate": "10-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "74651821bbe5709a",
+        "key": "Bop057rey",
+        "expirydate": "10-04-2027",
         "Allowoffline": true
     },
 ]
