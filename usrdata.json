@@ -638,7 +638,7 @@
     {
         "device_id": "8ff93511a7979a43",
         "key": "Bmm052tgt",
-        "expirydate": "31-12-2026",
+        "expirydate": "09-04-2027",
         "Allowoffline": true
     },
     {
@@ -657,6 +657,12 @@
         "device_id": "66e7aa29a63f906b",
         "key": "Dvi055",
         "expirydate": "10-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "c74d75533f30b545",
+        "key": "Bsj056jwa",
+        "expirydate": "31-12-2026",
         "Allowoffline": true
     },
 ]
