@@ -674,7 +674,13 @@
     {
         "device_id": "bbbe4d17d0143a67",
         "key": "Bvw058brp",
-        "expirydate": "31-12-2026",
+        "expirydate": "17-04-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "30eb909bfc875f8f",
+        "key": "Bgw059vwa",
+        "expirydate": "17-04-2027",
         "Allowoffline": true
     },
 ]
