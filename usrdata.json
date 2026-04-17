@@ -671,4 +671,10 @@
         "expirydate": "13-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "bbbe4d17d0143a67",
+        "key": "Bvw058brp",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
