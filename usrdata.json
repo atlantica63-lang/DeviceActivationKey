@@ -695,4 +695,10 @@
         "expirydate": "21-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "e0e53394dd64b185",
+        "key": "123",
+        "expirydate": "31-12-2028",
+        "Allowoffline": true
+    },
 ]
