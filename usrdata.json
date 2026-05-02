@@ -713,4 +713,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "479404ee1176ce80",
+        "key": "Bpq064lne",
+        "expirydate": "02-05-2027",
+        "Allowoffline": true
+    },
 ]
