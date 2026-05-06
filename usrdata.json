@@ -722,13 +722,19 @@
     {
         "device_id": "972819b68814a9fe",
         "key": "Bkl065kse",
-        "expirydate": "07-05-2026",
+        "expirydate": "07-05-2027",
         "Allowoffline": true
     },
     {
         "device_id": "4e8e1d71c5044ea8",
         "key": "Bkr066gek",
-        "expirydate": "07-05-2026",
+        "expirydate": "07-05-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5ef8c43496ee7aff",
+        "key": "Bpw067bwq",
+        "expirydate": "06-05-2027",
         "Allowoffline": true
     },
 ]
