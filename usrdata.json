@@ -755,4 +755,10 @@
         "expirydate": "07-05-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "a3c358fa49196a9b",
+        "key": "Hqi071rpr",
+        "expirydate": "18-05-2027",
+        "Allowoffline": true
+    },
 ]
