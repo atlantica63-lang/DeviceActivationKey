@@ -761,4 +761,10 @@
         "expirydate": "18-05-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "91d6a48e5f3d8969",
+        "key": "Bje072swa",
+        "expirydate": "26-05-2027",
+        "Allowoffline": true
+    },
 ]
