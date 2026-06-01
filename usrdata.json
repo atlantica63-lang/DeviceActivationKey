@@ -767,4 +767,16 @@
         "expirydate": "26-05-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "0c274f5a75bc1129",
+        "key": "Bbd073kld",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6ca630801bf44af7",
+        "key": "Bdj074fed",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
