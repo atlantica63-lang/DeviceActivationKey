@@ -776,7 +776,13 @@
     {
         "device_id": "6ca630801bf44af7",
         "key": "Bdj074fed",
-        "expirydate": "02-06-2026",
+        "expirydate": "02-06-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9b0dd503d95a2bb5",
+        "key": "Bel075cqa",
+        "expirydate": "03-06-2027",
         "Allowoffline": true
     },
 ]
