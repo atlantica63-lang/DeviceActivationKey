@@ -809,4 +809,10 @@
         "expirydate": "05-06-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "8a68bb6a16bc3c74",
+        "key": "Bhl080fnw",
+        "expirydate": "06-06-2027",
+        "Allowoffline": true
+    },
 ]
