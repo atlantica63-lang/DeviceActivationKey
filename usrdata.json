@@ -815,4 +815,10 @@
         "expirydate": "06-06-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "99ba05fdcbdd689b",
+        "key": "Bea081hrb",
+        "expirydate": "06-06-2027",
+        "Allowoffline": true
+    },
 ]
