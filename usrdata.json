@@ -839,4 +839,10 @@
         "expirydate": "07-06-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "7506df6b63c23164",
+        "key": "Bge085cpe",
+        "expirydate": "08-06-2027",
+        "Allowoffline": true
+    },
 ]
