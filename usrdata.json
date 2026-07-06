@@ -857,4 +857,10 @@
         "expirydate": "25-06-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "bc3879b4452f28e1",
+        "key": "Bne088bea",
+        "expirydate": "07-07-2027",
+        "Allowoffline": true
+    },
 ]
